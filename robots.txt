@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://freetools-hub.vercel.app/sitemap.xml
